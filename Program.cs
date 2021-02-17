@@ -12,6 +12,7 @@ namespace Demonstration
         {
             // This prgram was made by Mr. Aldworth
             Console.WriteLine("Hello World");
+            Console.WriteLine("I like pizza");
 
             Console.WriteLine("Press ENTER to quit");
             Console.ReadLine();
