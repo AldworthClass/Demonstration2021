@@ -10,6 +10,7 @@ namespace Demonstration
     {
         static void Main(string[] args)
         {
+            // This prgram was made by Mr. Aldworth
             Console.WriteLine("Hello World");
 
             Console.WriteLine("Press ENTER to quit");
