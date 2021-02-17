@@ -12,6 +12,7 @@ namespace Demonstration
         {
             Console.WriteLine("Hello World");
 
+            Console.WriteLine("Press ENTER to quit");
             Console.ReadLine();
         }
     }
